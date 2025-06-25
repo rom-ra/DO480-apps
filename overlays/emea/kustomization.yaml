@@ -8,5 +8,5 @@ resources:
   - route.yaml
 
 
-namePrefix: prod-
+nameSuffix: -emea
    
