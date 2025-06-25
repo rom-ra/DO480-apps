@@ -3,9 +3,9 @@ kind: Kustomization
 bases:
  - ../../base
 
-# resources:
-#   - dbclaim-pvc.yaml
-#   - route.yaml
+resources:
+  # - dbclaim-pvc.yaml
+  - route.yaml
 
 nameSuffix: -apac
 
