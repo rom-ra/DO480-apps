@@ -7,5 +7,5 @@ resources:
   - dbclaim-pvc.yaml
   - route.yaml
 
-namePrefix: dev-
+nameSuffix: -apac
  
